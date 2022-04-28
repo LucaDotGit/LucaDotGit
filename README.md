@@ -1,5 +1,5 @@
 Hi, I'm Luca,
-I'm a programmer.
+I'm a software-developer.
 I do mainly C# and sometimes C++ development in Visual Studio/- Code.
 
 
